@@ -1,2 +1,4 @@
 # Sentiment-Classification
-sentiment classification with Yelp Dataset JSON
+sentiment classification with amazon review
+
+download dataset https://www.kaggle.com/bittlingmayer/amazonreviews
